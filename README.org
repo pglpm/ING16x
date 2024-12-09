@@ -5,29 +5,28 @@
 
 
 * Tentative schedule of topics (total 3 h × 16 weeks)
-|------+----------+----------------------------------------------------------------------------------------------------------------------------+------------------|
-| Week | Notes    | Mechanical physics                                                                                                         | Other topics     |
-|------+----------+----------------------------------------------------------------------------------------------------------------------------+------------------|
-|    3 | Chs 1–2  | What's physics? Plan of the course, future pivot points. Quantities and units. Scalars & vectors.                          | Chemistry        |
-|    4 | Chs 2–3  | Time (with relativity/GPS). Space. Coords systems. Fundamental quantities and their properties.                            | Chemistry        |
-|    5 | (todo)   | Angular kinematics: angles, angular velocity, angular acceleration.                                                        | Chemistry        |
-|    6 | Ch. 4    | Control volumes & surfaces. Contents, fluxes, supplies. Extensivity, symmetry of fluxes.                                   | Chemistry        |
-|    7 | Chs 5–6  | Physical laws: universal balances vs. const. relations. Time-stepping and simulation. Role of the laws in simulations.     | Chemistry        |
-|    8 | Ch. 7,   | Balance of matter. A bit about its relevance to chemical reactions & stoichiometry?                                        | Chemistry        |
-|      | Ch. 10   | Balance of momentum. Force = momentum flux.                                                                                |                  |
-|    9 | Ch. 10   | Const. rels for momentum: Newton's laws (and EM?), Hooke, friction. Example applications and simulations. Rocket equation. | Chemistry        |
-|   10 | Ch. 11   | Balance of energy. Const rels for energy, e.g. ideal gas equation. Example applications and simulations.                   | Electromagnetism |
-|   11 | Ch. 11   | Further applications. Notion of state (from simulations). Coordinate dependence of momentum and energy (with examples).    | Electromagnetism |
-|   12 | Ch. 12   | Outer-oriented vectors (and perhaps bivectors). Balance of ang. momentum: two different forms. Example: Rigid body.        | Electromagnetism |
-|   13 | Ch. 12?  | Torque with examples.                                                                                                      | Electromagnetism |
-|   14 | Ch. 13?  | Further applications, putting it all together.                                                                             | Electromagnetism |
-|   15 | Ch. 14?  | Entropy and its relevance to chemistry.                                                                                    | Electromagnetism |
-|   15 |          | TBD                                                                                                                        | Electromagnetism |
-|   16 | (break)  | (break)                                                                                                                    | (break)          |
-|   17 | (break)  | (break)                                                                                                                    | (break)          |
-|   18 | (buffer) | (buffer)                                                                                                                   | (buffer)         |
-|   19 |          | Review                                                                                                                     | Review           |
-|------+----------+----------------------------------------------------------------------------------------------------------------------------+------------------|
+|------+---------------+---------------------------------------------------------------------------------------------------------------------------------+------------------|
+| Week | Notes         | Mechanical physics                                                                                                              | Other topics     |
+|------+---------------+---------------------------------------------------------------------------------------------------------------------------------+------------------|
+|    3 | Chs 1–2       | What's physics? Plan of the course, future pivot points. Quantities and units. Scalars & vectors.                               | Chemistry        |
+|    4 | Chs 2–3       | Time (with relativity/GPS). Space. Coords systems. Fundamental quantities and their properties.                                 | Chemistry        |
+|    5 | (todo)        | Angular kinematics: angles, angular velocity, angular acceleration.                                                             | Chemistry        |
+|    6 | Ch. 4         | Control volumes & surfaces. Contents, fluxes, supplies. Extensivity, symmetry of fluxes.                                        | Chemistry        |
+|    7 | Chs 5–6       | Physical laws: universal balances vs. const. relations. Time-stepping and simulation. Role of the laws in simulations.          | Chemistry        |
+|    8 | Ch. 7, Ch. 10 | Balance of matter. A bit about its relevance to chemical reactions & stoichiometry? Balance of momentum. Force = momentum flux. | Chemistry        |
+|    9 | Ch. 10        | Const. rels for momentum: Newton's laws (and EM?), Hooke, friction. Example applications and simulations. Rocket equation.      | Chemistry        |
+|   10 | Ch. 11        | Balance of energy. Const rels for energy, e.g. ideal gas equation. Example applications and simulations.                        | Electromagnetism |
+|   11 | Ch. 11        | Further applications. Notion of state (from simulations). Coordinate dependence of momentum and energy (with examples).         | Electromagnetism |
+|   12 | Ch. 12        | Outer-oriented vectors (and perhaps bivectors). Balance of ang. momentum: two different forms. Example: Rigid body.             | Electromagnetism |
+|   13 | Ch. 12?       | Torque with examples.                                                                                                           | Electromagnetism |
+|   14 | Ch. 13?       | Further applications, putting it all together.                                                                                  | Electromagnetism |
+|   15 | Ch. 14?       | Entropy and its relevance to chemistry.                                                                                         | Electromagnetism |
+|   15 |               | TBD                                                                                                                             | Electromagnetism |
+|   16 | (break)       | (break)                                                                                                                         | (break)          |
+|   17 | (break)       | (break)                                                                                                                         | (break)          |
+|   18 | (buffer)      | (buffer)                                                                                                                        | (buffer)         |
+|   19 |               | Review                                                                                                                          | Review           |
+|------+---------------+---------------------------------------------------------------------------------------------------------------------------------+------------------|
 
 
 * Emphases possibly different from more traditional presentations:
